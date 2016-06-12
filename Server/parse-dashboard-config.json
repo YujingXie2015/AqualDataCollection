@@ -1,0 +1,10 @@
+{
+  "apps": [{
+    "serverURL": "aquascale.heroku.com",
+    "appId": "aquascale",
+    "masterKey": "",
+    "appName": "aquascale",
+    "iconName": ""
+  }],
+  "iconsFolder": "icons"
+}

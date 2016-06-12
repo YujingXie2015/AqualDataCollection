@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "789238631761",
+    "project_id": "addmap2"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789238631761:android:cd1ded7ac9216cdb",
+        "android_client_info": {
+          "package_name": "com.example.yujingxie.addmap2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789238631761-ulr46el3ums0ia20a3si4064d4le9a23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yujingxie.addmap2",
+            "certificate_hash": "744D5B0EE397EF2E2130CA1E82092EAAA0D490B3"
+          }
+        },
+        {
+          "client_id": "789238631761-4pgi36d66h5ruhqgd2rjfo4v3h5m8iat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR1l0OiIzv6hJ1Y7jsrKv-o_B0BlofKm0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
